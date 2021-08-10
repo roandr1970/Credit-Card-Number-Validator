@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/roandr1970/Credit-Card-Number-Validator/issues/1
+[Выдаётся неверный результат при вводе валидных номеров карт, состоящих не из 16 цифр](https://github.com/roandr1970/Credit-Card-Number-Validator/issues/1)
 
 ## Описание процесса тестирования
 
