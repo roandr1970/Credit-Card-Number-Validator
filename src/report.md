@@ -23,4 +23,5 @@ https://github.com/roandr1970/Credit-Card-Number-Validator/issues/1
 
 Тестирование производилось в следующем окружении:
 * Windows 10, 64 разр.
+* Среда разработки IntelliJ IDEA
 * Java 11
