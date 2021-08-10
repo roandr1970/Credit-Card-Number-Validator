@@ -10,7 +10,7 @@
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные сайта https://www.freeformatter.com/credit-card-number-generator-validator.html
+В качестве тестовых данных использовались данные [сайта] (https://www.freeformatter.com/credit-card-number-generator-validator.html)
 * валидные корректные значения: VISA: 4015922748766797,4539173313190685595. MasterCard:
   2720992591303485. Maestro: 5020949862349142. Discover: 6011140101659785  
   Ожидаемый результат: Result is OK
